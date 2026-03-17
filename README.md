@@ -28,6 +28,26 @@ This project documents the process of building and configuring a WooCommerce onl
 
 ---
 
+## 🛍️ Single Product Page Customization
+
+The default WooCommerce product gallery layout was redesigned using pure CSS (Flexbox), without modifying any PHP files.
+
+Key improvements:
+
+- Repositioned product thumbnails to the side of the main image (desktop & tablet)
+- Implemented a flexible layout using `display: flex`
+- Improved visual hierarchy between main image and gallery thumbnails
+- Added hover effects (opacity and scale) for better user interaction
+- Optimized spacing and alignment for a cleaner UI
+
+Responsive adjustments:
+
+- On mobile devices, the layout switches to a vertical structure
+- Thumbnails are displayed horizontally with proper spacing
+- Ensured full responsiveness across different breakpoints
+
+---
+
 ## Tech Stack
 
 - WordPress
@@ -56,4 +76,5 @@ https://www.mardass.com/
 ---
 
 ## Notes
+
 This project focuses on a practical WooCommerce implementation rather than custom backend development.
