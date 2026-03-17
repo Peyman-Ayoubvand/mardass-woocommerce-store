@@ -88,7 +88,7 @@ This project focuses on a practical WooCommerce implementation rather than custo
 ![Shop](screenshots/shop.png)
 
 ### 📦 Product Page
-![Product](screenshots/product-page.png)
+![Product](screenshots/product.png)
 
 ---
 
