@@ -82,13 +82,13 @@ This project focuses on a practical WooCommerce implementation rather than custo
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+<img src="screenshots/homepage.png" width="700"/>
 
 ### 🛍️ Shop Page
-![Shop](screenshots/Shop.png)
+<img src="screenshots/shop.png" width="700"/>
 
 ### 📦 Product Page
-![Product](screenshots/product.png)
+<img src="screenshots/product-page.png" width="700"/>
 
 ---
 
