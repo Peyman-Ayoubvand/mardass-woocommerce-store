@@ -78,3 +78,35 @@ https://www.mardass.com/
 ## Notes
 
 This project focuses on a practical WooCommerce implementation rather than custom backend development.
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Shop Page
+![Shop](screenshots/shop.png)
+
+### Product Page
+![Product](screenshots/product-page.png)
+
+### About Page
+![About](screenshots/about.png)
+
+### Contact Page
+![Contact](screenshots/contact.png)
+
+### FAQ Page
+![FAQ](screenshots/faq.png)
+
+### Privacy Policy
+![Privacy](screenshots/privacy-policy.png)
+
+### Terms & Conditions
+![Terms](screenshots/terms-and-conditions.png)
+
+### Refund Policy
+![Refund](screenshots/refund-policy.png)
+
+### Shipping Policy
+![Shipping](screenshots/shipping-policy.png)
