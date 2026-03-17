@@ -81,32 +81,23 @@ This project focuses on a practical WooCommerce implementation rather than custo
 
 ## 📸 Screenshots
 
-### Homepage
+### 🏠 Homepage
 ![Homepage](screenshots/homepage.png)
 
-### Shop Page
+### 🛍️ Shop Page
 ![Shop](screenshots/shop.png)
 
-### Product Page
+### 📦 Product Page
 ![Product](screenshots/product-page.png)
 
-### About Page
-![About](screenshots/about.png)
+---
 
-### Contact Page
-![Contact](screenshots/contact.png)
+### 📄 Other Pages
 
-### FAQ Page
-![FAQ](screenshots/faq.png)
-
-### Privacy Policy
-![Privacy](screenshots/privacy-policy.png)
-
-### Terms & Conditions
-![Terms](screenshots/terms-and-conditions.png)
-
-### Refund Policy
-![Refund](screenshots/refund-policy.png)
-
-### Shipping Policy
-![Shipping](screenshots/shipping-policy.png)
+- [About Page](screenshots/about.png)
+- [Contact Page](screenshots/contact.png)
+- [FAQ Page](screenshots/faq.png)
+- [Privacy Policy](screenshots/privacy-policy.png)
+- [Terms & Conditions](screenshots/terms-and-conditions.png)
+- [Refund Policy](screenshots/refund-policy.png)
+- [Shipping Policy](screenshots/shipping-policy.png)
