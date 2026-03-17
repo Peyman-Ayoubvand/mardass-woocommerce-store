@@ -82,7 +82,7 @@ This project focuses on a practical WooCommerce implementation rather than custo
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-<img src="screenshots/homepage.png" width="400"/>
+<img src="screenshots/homepage.png" width="500"/>
 
 ---
 
