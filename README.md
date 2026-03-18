@@ -68,6 +68,54 @@ Responsive adjustments:
 
 ---
 
+## 🏠 Homepage Customization
+
+The homepage was fully redesigned with a focus on branding, performance, and responsive user experience.
+
+Hero section:
+
+- Implemented a video-based hero section for desktop and tablet devices to create a strong visual impact
+- Created a separate hero section specifically for mobile devices using a static image
+- Used responsive visibility settings to hide the video version on mobile and display the image version instead
+
+New Arrivals (product showcase):
+
+- Designed a custom product showcase section instead of using default WooCommerce layouts
+- Implemented interactive product cards using Essential Addons (Flip Box)
+
+Desktop & Tablet behavior:
+- Front side displays product image and title
+- Back side (on hover) shows alternate image, product description, and a "View Product" button
+
+Mobile behavior:
+- Created a separate mobile version of the section with a hover-independent design
+- Used responsive visibility controls to hide the desktop version and display the mobile version instead
+- Ensured all product information and actions are always visible
+- Adjusted layout to a 2-column grid for better usability on smaller screens
+
+Layout & design:
+
+- Built multiple custom sections, including:
+  - New Arrivals
+  - Best Seller promotional section
+  - Brand philosophy section
+  - Customer testimonials
+- Designed all sections manually using Elementor for full layout control
+
+Responsive strategy:
+
+- Used device-specific sections (show/hide) to handle major layout differences
+- Customized grid behavior across breakpoints (including 2-column mobile layout)
+- Optimized spacing, stacking, and readability for different screen sizes
+
+Design approach:
+
+- Focused on a clean, minimal UI aligned with a fashion brand identity
+- Maintained visual consistency across all sections
+- Balanced imagery, typography, and whitespace for a modern e-commerce experience
+
+---
+
 ## Tech Stack
 
 - WordPress
