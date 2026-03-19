@@ -115,6 +115,12 @@ Design approach:
 - Balanced imagery, typography, and whitespace for a modern e-commerce experience
 
 ---
+## 📄 Content & UX Pages
+
+- Designed a brand-focused **About page** to communicate identity, values, and storytelling
+- Created a structured **FAQ section** to address common user concerns and improve user experience
+
+---
 
 ## 🛒 Cart & Checkout Experience
 
