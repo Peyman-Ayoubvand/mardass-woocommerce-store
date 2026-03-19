@@ -122,6 +122,18 @@ Design approach:
 
 ---
 
+## 📜 Policies & Legal Pages
+
+- Created essential legal pages for a complete eCommerce experience:
+  - Privacy Policy
+  - Terms & Conditions
+  - Shipping Policy
+  - Refund Policy
+
+These pages were structured to reflect real-world online store requirements and improve user trust.
+
+---
+
 ## 🛒 Cart & Checkout Experience
 
 To improve the shopping flow, a slide-out cart (off-canvas mini cart) was implemented instead of the default WooCommerce cart page.
