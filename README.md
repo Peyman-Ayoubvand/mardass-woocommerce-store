@@ -116,6 +116,78 @@ Design approach:
 
 ---
 
+## 🛒 Cart & Checkout Experience
+
+To improve the shopping flow, a slide-out cart (off-canvas mini cart) was implemented instead of the default WooCommerce cart page.
+
+### Implementation
+
+- Used **Modern Cart for WooCommerce**
+- Maintained plugin structure for stability
+- Customized UI using CSS (typography, spacing, width)
+
+### Improvements
+
+- Instant cart access without page reload
+- Smooth slide-out interaction
+- Optimized layout for better readability
+- Direct access to checkout from cart
+
+### Checkout Page
+
+- Customized WooCommerce checkout layout
+- Improved form structure and readability
+- Integrated multiple payment methods (PayPal & Stripe)
+
+---
+
+## 💳 Payment Integration
+
+Integrated secure payment gateways using:
+
+- **Stripe (Credit/Debit Cards)**
+- **PayPal**
+
+### Implementation Details
+
+- Configured using official WooCommerce plugins (Payment Plugins for Stripe & PayPal)
+- Set up API keys from provider dashboards
+- Enabled sandbox/testing mode for safe transaction testing
+
+### Result
+
+- Fully functional checkout system
+- Support for multiple payment methods
+- Ready for real-world deployment
+
+---
+
+## 🚚 Shipping & Discounts System
+
+### Shipping Configuration
+
+- Defined multiple shipping zones:
+  - Italy
+  - Europe
+  - Rest of the World
+- Implemented conditional shipping methods:
+  - Standard shipping
+  - Free shipping (based on order value)
+
+### Coupons System
+
+- Created multiple discount types:
+  - Percentage discount
+  - Fixed cart discount
+- Configured usage limits and expiration rules
+
+### Purpose
+
+- Simulate a real-world eCommerce pricing and delivery system
+- Improve conversion through discounts and flexible shipping options
+
+---
+
 ## Tech Stack
 
 - WordPress
@@ -173,3 +245,5 @@ This project focuses on a practical WooCommerce implementation rather than custo
 - [Terms & Conditions](screenshots/terms-and-conditions.png)
 - [Refund Policy](screenshots/refund-policy.png)
 - [Shipping Policy](screenshots/shipping-policy.png)
+- [Cart (Slide-out Mini Cart)](screenshots/cart.png)
+- [Checkout (Payment & Billing)](screenshots/checkout.png)
