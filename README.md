@@ -187,6 +187,27 @@ Integrated secure payment gateways using:
 - Improve conversion through discounts and flexible shipping options
 
 ---
+## 📞 Contact Page & Form Handling
+
+A fully functional contact form was implemented using **WPForms** to allow users to easily reach out.
+
+### Email Delivery Issue & Solution
+
+During development, form submissions were not being delivered due to server email limitations.
+
+To resolve this:
+
+- Configured **WP Mail SMTP** for reliable email delivery
+- Integrated SMTP authentication using a Gmail account
+- Ensured successful form submission and email notifications
+
+### Result
+
+- Fully working contact form
+- Reliable email delivery system
+- Improved user communication experience
+
+---
 
 ## Tech Stack
 
