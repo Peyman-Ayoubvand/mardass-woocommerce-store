@@ -263,6 +263,31 @@ To resolve this:
 
 ---
 
+## 📧 Email Marketing Integration
+
+Implemented basic email marketing functionality using Mailchimp.
+
+### Popup Subscription
+
+- Created a promotional popup offering a 10% discount
+- Integrated popup using custom code (Code Snippets)
+- Designed to capture user emails on site entry
+- Connected popup form to Mailchimp audience list
+
+### Email Campaign
+
+- Designed a simple promotional email campaign
+- Showcased selected products with direct links
+- Maintained brand consistency in layout and visuals
+
+### Result
+
+- Functional email capture system
+- Automated discount delivery via coupon code
+- Improved potential for user retention and marketing
+
+---
+
 ## Tech Stack
 
 - WordPress
