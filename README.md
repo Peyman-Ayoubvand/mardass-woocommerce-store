@@ -205,6 +205,42 @@ Integrated secure payment gateways using:
 - Improve conversion through discounts and flexible shipping options
 
 ---
+
+## 🔍 SEO Optimization
+
+Basic on-page SEO improvements were implemented using Rank Math SEO.
+
+### Focus Areas
+
+- Optimized key pages:
+  - Homepage
+  - Shop page
+  - Single product pages
+
+- Defined focus keywords based on search intent
+- Optimized SEO titles and meta descriptions
+- Improved keyword placement across content and headings
+
+### Implementation
+
+- Used Rank Math SEO to analyze and improve page content
+- Focused on increasing SEO score for main pages
+- Improved readability and structure of content
+
+### Google Search Console
+
+- Connected website to Google Search Console
+- Submitted the website for indexing
+- Monitored indexed and non-indexed pages
+
+### Result
+
+- Improved SEO scores on key pages (Rank Math)
+- Successful indexing of main pages
+- Better visibility in search engine results
+
+---
+
 ## 📞 Contact Page & Form Handling
 
 A fully functional contact form was implemented using **WPForms** to allow users to easily reach out.
