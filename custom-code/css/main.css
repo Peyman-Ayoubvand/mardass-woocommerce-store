@@ -1,1 +1,297 @@
+/* ========================================
+   Mardass WooCommerce Custom Styles
+   Author: Peyman
+   Description: UI/UX customizations for WooCommerce (Astra theme)
+======================================== */
 
+
+/* ========================================
+   PRODUCT PAGE – GALLERY LAYOUT
+======================================== */
+
+/* Thumbnails on the left (desktop & tablet) */
+.single-product .woocommerce-product-gallery {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 14px;
+}
+
+.single-product .flex-control-thumbs {
+    order: -1;
+    width: 20%;
+    display: flex !important;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0 !important;
+}
+
+.single-product .flex-control-thumbs li {
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.single-product .flex-viewport {
+    width: 80%;
+}
+
+.single-product .flex-control-thumbs img {
+    opacity: 0.8;
+    transition: .25s;
+    border-radius: 6px;
+}
+
+.single-product .flex-active img {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+
+/* ========================================
+   PRODUCT PAGE – RELATED PRODUCTS (TABLET)
+======================================== */
+
+@media (min-width: 720px) and (max-width: 1024px) {
+    .single-product ul.products.columns-4 {
+        grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+    }
+}
+
+
+/* ========================================
+   SHOP PAGE – SIDEBAR & FILTERS
+======================================== */
+
+.woocommerce-shop #secondary {
+    padding-right: 20px;
+}
+
+.wp-block-separator.has-alpha-channel-opacity.is-style-wide {
+    margin-bottom: 10px;
+}
+
+.wc-block-product-filters__overlay-content {
+    --wc-product-filter-block-spacing: 10px !important;
+}
+
+
+/* ========================================
+   TABLET SIDEBAR (720px – 920px)
+======================================== */
+
+@media (min-width: 720px) and (max-width: 920px) {
+
+    .ast-left-sidebar #content > .ast-container {
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+    }
+
+    .woocommerce-shop #secondary {
+        width: 40%;
+        padding-right: 10px;
+    }
+
+    .ast-left-sidebar #primary {
+        border-left: 1px solid var(--ast-border-color);
+        padding-left: 10px;
+    }
+
+    .woocommerce .ast-archive-entry-banner {
+        padding-bottom: 0;
+        min-height: 350px !important;
+    }
+
+    .woocommerce .ast-container h1 {
+        text-align: center;
+    }
+}
+
+
+/* ========================================
+   MOBILE STYLES (max-width: 719px)
+======================================== */
+
+@media (max-width: 719px) {
+
+    .single-product .woocommerce-product-gallery {
+        flex-direction: column;
+    }
+
+    .single-product .flex-control-nav {
+        order: 1;
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .single-product .flex-control-thumbs li {
+        width: 80px !important;
+        margin: 0 !important;
+    }
+
+    .single-product .flex-viewport {
+        width: 100%;
+    }
+
+    .ast-left-sidebar #content > .ast-container {
+        flex-direction: column;
+    }
+
+    .widget-area#secondary {
+        margin: 40px 0 10px 0;
+    }
+
+    .ast-filter-wrap {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .ast-filter-wrap > form.wp-block-search {
+        flex: 1 !important;
+        min-width: 0 !important;
+        width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .ast-filter-wrap > .widget {
+        margin: 0 !important;
+    }
+
+    .widget_block.widget_search {
+        min-width: 90%;
+    }
+
+    button.wc-block-product-filters__open-overlay {
+        padding: 10px;
+    }
+
+    .wc-block-product-filters__open-overlay span {
+        display: none;
+    }
+
+    .woocommerce .ast-archive-entry-banner {
+        padding-bottom: 0;
+        min-height: 350px !important;
+    }
+
+    .woocommerce .ast-container h1 {
+        text-align: center;
+        font-size: 35px !important;
+    }
+
+    #primary.content-area {
+        margin: 1em 0 2em 0;
+    }
+}
+
+
+/* ========================================
+   SMALL TABLET (601px – 719px)
+======================================== */
+
+@media (min-width: 601px) and (max-width: 719px) {
+
+    .ast-left-sidebar #content > .ast-container {
+        flex-direction: row !important;
+    }
+
+    .ast-filter-wrap {
+        flex-direction: column;
+    }
+
+    .ast-woocommerce-container ul.products {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    .woocommerce-shop #secondary {
+        width: 50%;
+        padding-right: 10px;
+    }
+
+    .ast-left-sidebar #primary {
+        border-left: 1px solid var(--ast-border-color);
+        padding-left: 10px;
+    }
+
+    .wc-block-product-filters__overlay-content {
+        width: 200px !important;
+    }
+
+    .wc-block-product-filter-price-slider__left .min,
+    .wc-block-product-filter-price-slider__right .max {
+        border: 0px !important;
+        width: 30px !important;
+        padding: 0 !important;
+    }
+
+    .woocommerce .ast-archive-entry-banner {
+        padding-bottom: 0;
+        min-height: 350px !important;
+    }
+
+    .woocommerce .ast-container h1 {
+        text-align: center;
+    }
+}
+
+
+/* ========================================
+   SEARCH PAGE
+======================================== */
+
+.search .ast-archive-entry-banner {
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url(https://www.mardass.com/wp-content/uploads/2026/02/amin-naderloei-zaGByyQb3-A-unsplash-1-scaled-e1771782869579.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    min-height: 450px !important;
+}
+
+.search .ast-archive-entry-banner .ast-container,
+.search .ast-archive-title {
+    color: #fff;
+}
+
+
+/* ========================================
+   MINI CART (MODERNCART)
+======================================== */
+
+.moderncart-cart-item-product-link a {
+    font-size: 13px !important;
+}
+
+span.woocommerce-Price-amount {
+    font-size: 12px !important;
+}
+
+.moderncart-cart-item-actions-remove {
+    font-size: 10px !important;
+}
+
+#moderncart-slide-out-modal.moderncart-cart-style-slideout #moderncart-slide-out {
+    max-width: 400px !important;
+}
+
+.moderncart-slide-out-header-title span {
+    font-size: 16px !important;
+}
+
+.wc-proceed-to-checkout a {
+    font-size: 14px !important;
+}
+
+
+/* ========================================
+   GLOBAL FIXES
+======================================== */
+
+h1.entry-title {
+    display: none;
+}
