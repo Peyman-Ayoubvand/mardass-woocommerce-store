@@ -24,23 +24,13 @@ This project documents the process of building and configuring a WooCommerce onl
 
 ---
 
-## 🛍️ Single Product Page Customization
+## 🛍️ Product Page (Custom UI)
 
-The default WooCommerce product gallery layout was redesigned using pure CSS (Flexbox), without modifying any PHP files.
-
-Key improvements:
-
-- Repositioned product thumbnails to the side of the main image (desktop & tablet)
-- Implemented a flexible layout using `display: flex`
-- Improved visual hierarchy between main image and gallery thumbnails
-- Added hover effects (opacity and scale) for better user interaction
-- Optimized spacing and alignment for a cleaner UI
-
-Responsive adjustments:
-
-- On mobile devices, the layout switches to a vertical structure
-- Thumbnails are displayed horizontally with proper spacing
-- Ensured full responsiveness across different breakpoints
+- Redesigned WooCommerce product gallery layout using pure CSS (Flexbox)
+- Moved thumbnails to a vertical sidebar layout (desktop & tablet)
+- Improved visual hierarchy and image interaction (hover effects, scaling)
+- Implemented fully responsive behavior for mobile devices (horizontal thumbnails)
+- Enhanced overall product page UX without modifying WooCommerce core files
 
 ---
 
