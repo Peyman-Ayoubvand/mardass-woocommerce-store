@@ -1,21 +1,12 @@
-# Mardass – WooCommerce Fashion Store
+# Mardass – WooCommerce Store
 
-🚀 Fully customized WooCommerce store with improved UI/UX, responsive design, and real-world eCommerce functionality.
-
-🔗 Live Demo: https://www.mardass.com/
+A fashion e-commerce website built with WordPress and WooCommerce.
 
 ---
 
-## ✨ Key Features
+## Project Status
 
-- Custom product page layout (Flexbox-based gallery, no PHP modification)
-- Advanced shop filtering system (price, size, color, category)
-- Fully responsive custom homepage (desktop & mobile optimized)
-- Slide-out mini cart (off-canvas UX)
-- Stripe & PayPal payment integration
-- SEO optimization (Rank Math + Search Console)
-- Email marketing integration (Mailchimp popup system)
-
+🚧 In Progress
 ---
 
 ## Overview
