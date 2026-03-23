@@ -34,23 +34,13 @@ This project documents the process of building and configuring a WooCommerce onl
 
 ---
 
-## 🛍️ Shop Page Customization
+## 🛍️ Shop Page (Filtering System)
 
-The default shop layout was extended by adding a fully functional sidebar with product filtering capabilities.
-
-Key improvements:
-
-- Added a custom WooCommerce sidebar using widgets
-- Integrated product filters including price range, size, color, and category
-- Implemented product search functionality within the shop sidebar
-- Enabled sidebar layout through theme customization (Astra Product Catalog settings)
-- Converted the shop page from a full-width layout to a structured sidebar layout
-
-Responsive adjustments:
-
-- On mobile devices, filters are displayed in a compact, toggle-based interface for better usability
-- Optimized layout and spacing for smaller screens
-- Maintained accessibility of filtering options without cluttering the UI
+- Implemented a sidebar-based product filtering system (price, size, color, category)
+- Integrated product search functionality within the shop page
+- Configured and structured the shop layout into a sidebar-based layout
+- Optimized filtering UX for both desktop and mobile devices
+- Improved product browsing experience with better layout and accessibility
 
 ---
 
