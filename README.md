@@ -18,6 +18,23 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+<img src="screenshots/homepage.png" width="500"/>
+
+---
+
+### 🛍️ Shop Page
+<img src="screenshots/Shop.png" width="600"/>
+
+---
+
+### 📦 Product Page
+<img src="screenshots/product.png" width="600"/>
+
+---
+
 ## Overview
 
 This project is a fully functional WooCommerce-based eCommerce store designed to simulate a real-world online fashion business.
@@ -84,6 +101,7 @@ These pages were structured to reflect real-world online store requirements and 
 - Enhanced cart usability with better layout and readability
 - Optimized checkout layout for clearer form structure
 - Integrated multiple payment methods (Stripe & PayPal)
+
 ---
 
 ## 💳 Payment Integration
@@ -136,29 +154,6 @@ These pages were structured to reflect real-world online store requirements and 
 - Stripe & PayPal (payment integration)
 - Mailchimp (email marketing)
 - Wordfence (security)
-
----
-
-## Live Demo
-
-https://www.mardass.com/
-
----
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-<img src="screenshots/homepage.png" width="500"/>
-
----
-
-### 🛍️ Shop Page
-<img src="screenshots/Shop.png" width="600"/>
-
----
-
-### 📦 Product Page
-<img src="screenshots/product.png" width="600"/>
 
 ---
 
