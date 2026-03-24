@@ -20,7 +20,9 @@
 
 ## Overview
 
-This project documents the process of building and configuring a WooCommerce online store, focusing on security, structure, and practical implementation.
+This project is a fully functional WooCommerce-based eCommerce store designed to simulate a real-world online fashion business.
+
+It focuses on UI/UX improvements, responsive design, and practical implementation of core eCommerce features including product management, checkout flow, payment integration, and marketing tools.
 
 ---
 
@@ -86,131 +88,42 @@ These pages were structured to reflect real-world online store requirements and 
 
 ## 💳 Payment Integration
 
-Integrated secure payment gateways using:
-
-- **Stripe (Credit/Debit Cards)**
-- **PayPal**
-
-### Implementation Details
-
-- Configured using official WooCommerce plugins (Payment Plugins for Stripe & PayPal)
-- Set up API keys from provider dashboards
-- Enabled sandbox/testing mode for safe transaction testing
-
-### Result
-
-- Fully functional checkout system
-- Support for multiple payment methods
-- Ready for real-world deployment
+- Integrated Stripe and PayPal payment gateways
+- Configured secure checkout with multiple payment methods
+- Tested transactions using sandbox environments
 
 ---
 
-## 🚚 Shipping & Discounts System
+## 🚚 Shipping & Discounts
 
-### Shipping Configuration
-
-- Defined multiple shipping zones:
-  - Italy
-  - Europe
-  - Rest of the World
-- Implemented conditional shipping methods:
-  - Standard shipping
-  - Free shipping (based on order value)
-
-### Coupons System
-
-- Created multiple discount types:
-  - Percentage discount
-  - Fixed cart discount
-- Configured usage limits and expiration rules
-
-### Purpose
-
-- Simulate a real-world eCommerce pricing and delivery system
-- Improve conversion through discounts and flexible shipping options
-
+- Configured multiple shipping zones (Italy, Europe, Rest of World)
+- Implemented conditional shipping methods (standard & free shipping)
+- Created flexible coupon system (percentage & fixed discounts)
+- Applied usage limits and expiration rules for promotions
 ---
 
 ## 🔍 SEO Optimization
 
-Basic on-page SEO improvements were implemented using Rank Math SEO.
-
-### Focus Areas
-
-- Optimized key pages:
-  - Homepage
-  - Shop page
-  - Single product pages
-
-- Defined focus keywords based on search intent
-- Optimized SEO titles and meta descriptions
-- Improved keyword placement across content and headings
-
-### Implementation
-
-- Used Rank Math SEO to analyze and improve page content
-- Focused on increasing SEO score for main pages
-- Improved readability and structure of content
-
-### Google Search Console
-
-- Connected website to Google Search Console
-- Submitted the website for indexing
-- Monitored indexed and non-indexed pages
-
-### Result
-
-- Improved SEO scores on key pages (Rank Math)
-- Successful indexing of main pages
-- Better visibility in search engine results
-
+- Optimized key pages (homepage, shop, product pages) using Rank Math
+- Configured SEO titles, meta descriptions, and keyword structure
+- Connected website to Google Search Console and submitted for indexing
+- Improved content structure and readability for better search visibility
 ---
 
-## 📞 Contact Page & Form Handling
+## 📞 Contact System
 
-A fully functional contact form was implemented using **WPForms** to allow users to easily reach out.
-
-### Email Delivery Issue & Solution
-
-During development, form submissions were not being delivered due to server email limitations.
-
-To resolve this:
-
-- Configured **WP Mail SMTP** for reliable email delivery
-- Integrated SMTP authentication using a Gmail account
-- Ensured successful form submission and email notifications
-
-### Result
-
-- Fully working contact form
-- Reliable email delivery system
-- Improved user communication experience
-
+- Implemented a functional contact form using WPForms
+- Configured SMTP (WP Mail SMTP) for reliable email delivery
+- Resolved email sending issues caused by server limitations
+- Ensured stable form submission and notification system
 ---
 
-## 📧 Email Marketing Integration
+## 📧 Email Marketing
 
-Implemented basic email marketing functionality using Mailchimp.
-
-### Popup Subscription
-
-- Created a promotional popup offering a 10% discount
-- Integrated popup using custom code (Code Snippets)
-- Designed to capture user emails on site entry
-- Connected popup form to Mailchimp audience list
-
-### Email Campaign
-
-- Designed a simple promotional email campaign
-- Showcased selected products with direct links
-- Maintained brand consistency in layout and visuals
-
-### Result
-
-- Functional email capture system
-- Automated discount delivery via coupon code
-- Improved potential for user retention and marketing
-
+- Integrated Mailchimp for email collection and campaigns
+- Implemented a popup-based subscription system with discount incentive
+- Connected user inputs to Mailchimp audience lists
+- Designed a basic promotional email campaign for user engagement
 ---
 
 ## 🛠 Tech Stack
@@ -223,7 +136,7 @@ Implemented basic email marketing functionality using Mailchimp.
 - Stripe & PayPal (payment integration)
 - Mailchimp (email marketing)
 - Wordfence (security)
-- 
+
 ---
 
 ## Live Demo
