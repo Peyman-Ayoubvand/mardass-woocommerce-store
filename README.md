@@ -75,29 +75,13 @@ These pages were structured to reflect real-world online store requirements and 
 
 ---
 
-## 🛒 Cart & Checkout Experience
+## 🛒 Cart & Checkout (UX Optimization)
 
-To improve the shopping flow, a slide-out cart (off-canvas mini cart) was implemented instead of the default WooCommerce cart page.
-
-### Implementation
-
-- Used **Modern Cart for WooCommerce**
-- Maintained plugin structure for stability
-- Customized UI using CSS (typography, spacing, width)
-
-### Improvements
-
-- Instant cart access without page reload
-- Smooth slide-out interaction
-- Optimized layout for better readability
-- Direct access to checkout from cart
-
-### Checkout Page
-
-- Customized WooCommerce checkout layout
-- Improved form structure and readability
-- Integrated multiple payment methods (PayPal & Stripe)
-
+- Implemented a slide-out mini cart using a WooCommerce plugin and customized its UI
+- Improved shopping flow by reducing page reload dependency
+- Enhanced cart usability with better layout and readability
+- Optimized checkout layout for clearer form structure
+- Integrated multiple payment methods (Stripe & PayPal)
 ---
 
 ## 💳 Payment Integration
@@ -229,36 +213,24 @@ Implemented basic email marketing functionality using Mailchimp.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- WordPress
+- WordPress (Astra Theme)
 - WooCommerce
-- Wordfence Security
-- WooCommerce CSV Import System
-
----
-
-## Documentation
-
-- [Setup Guide](setup-guide/installation.md)
-- [Architecture](architecture/project-structure.md)
-- [Security Details](security/security-notes.md)
-- [Performance Notes](performance/optimization-notes.md)
-- [Product Structure](product-structure/product-architecture.md)
-
-
+- Elementor (Page Builder)
+- CSS (Flexbox, responsive design, UI customization)
+- JavaScript (basic UI interactions)
+- Stripe & PayPal (payment integration)
+- Mailchimp (email marketing)
+- Wordfence (security)
+- 
 ---
 
 ## Live Demo
 
 https://www.mardass.com/
 
-
 ---
-
-## Notes
-
-This project focuses on a practical WooCommerce implementation rather than custom backend development.
 
 ## 📸 Screenshots
 
