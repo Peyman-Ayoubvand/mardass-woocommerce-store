@@ -26,12 +26,12 @@
 ---
 
 ### 🛍️ Shop Page
-<img src="screenshots/Shop.png" width="500"/>
+<img src="screenshots/Shop.png" width="450"/>
 
 ---
 
 ### 📦 Product Page
-<img src="screenshots/product.png" width="500"/>
+<img src="screenshots/product.png" width="450"/>
 
 ---
 
