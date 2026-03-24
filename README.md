@@ -118,6 +118,7 @@ These pages were structured to reflect real-world online store requirements and 
 - Implemented conditional shipping methods (standard & free shipping)
 - Created flexible coupon system (percentage & fixed discounts)
 - Applied usage limits and expiration rules for promotions
+
 ---
 
 ## 🔍 SEO Optimization
@@ -126,6 +127,7 @@ These pages were structured to reflect real-world online store requirements and 
 - Configured SEO titles, meta descriptions, and keyword structure
 - Connected website to Google Search Console and submitted for indexing
 - Improved content structure and readability for better search visibility
+
 ---
 
 ## 📞 Contact System
@@ -134,6 +136,7 @@ These pages were structured to reflect real-world online store requirements and 
 - Configured SMTP (WP Mail SMTP) for reliable email delivery
 - Resolved email sending issues caused by server limitations
 - Ensured stable form submission and notification system
+
 ---
 
 ## 📧 Email Marketing
@@ -142,6 +145,7 @@ These pages were structured to reflect real-world online store requirements and 
 - Implemented a popup-based subscription system with discount incentive
 - Connected user inputs to Mailchimp audience lists
 - Designed a basic promotional email campaign for user engagement
+
 ---
 
 ## 🛠 Tech Stack
