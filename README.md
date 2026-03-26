@@ -147,13 +147,13 @@ These pages were structured to reflect real-world online store requirements and 
 
 ---
 
-## 📧 Email Marketing
+📧 Email Marketing
 
-- Integrated Mailchimp for email collection and campaigns
-- Implemented a popup-based subscription system with discount incentive
-- Connected user inputs to Mailchimp audience lists
-- Designed a basic promotional email campaign for user engagement
-
+- Integrated Mailchimp for email collection and campaigns  
+- Implemented a Mailchimp popup subscription system via custom script integration (WPCode)  
+- Configured delayed popup trigger and controlled display frequency for better user experience  
+- Connected user inputs to Mailchimp audience lists  
+- Designed a basic promotional email campaign for user engagement  
 ---
 
 ## 🛠 Tech Stack
