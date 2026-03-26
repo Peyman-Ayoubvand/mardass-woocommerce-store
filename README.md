@@ -37,7 +37,7 @@
 
 ## 📱 Mobile View
 
-👉 [Homepage (Mobile)](screenshots/mobile-homepaage.png)  
+👉 [Homepage (Mobile)](screenshots/mobile-homepage.png)  
 👉 [Shop Page (Mobile)](screenshots/mobile-shop.png)  
 👉 [Product Page (Mobile)](screenshots/mobile-product.png)
 
