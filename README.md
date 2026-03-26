@@ -18,6 +18,20 @@
 
 ---
 
+## 🚀 Performance Optimization
+
+- Image optimization (WebP format)
+- Hero image preloading
+- Mailchimp popup optimization
+- Reduced JavaScript impact
+
+### 📱 Mobile Performance
+[Mobile Performance](./screenshots/Mobile-Performance.png)]
+
+### 💻 Desktop Performance
+[Desktop Performance](./screenshots/Desktop-Performance.png)]
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Homepage
