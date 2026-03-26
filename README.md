@@ -26,8 +26,8 @@
 - Reduced JavaScript impact
 
 ###  Performances
-[Mobile Performance](./screenshots/Mobile-Performance.png)
-[Desktop Performance](./screenshots/Desktop-Performance.png)
+- [Mobile Performance](./screenshots/Mobile-Performance.png)
+- [Desktop Performance](./screenshots/Desktop-Performance.png)
 
 ---
 
