@@ -26,10 +26,11 @@
 - Reduced JavaScript impact
 
 ### 📱 Mobile Performance
-[Mobile Performance](./screenshots/Mobile-Performance.png)]
+[Mobile Performance](./screenshots/Mobile-Performance.png)
 
 ### 💻 Desktop Performance
-[Desktop Performance](./screenshots/Desktop-Performance.png)]
+[Desktop Performance](./screenshots/Desktop-Performance.png)
+
 ---
 
 ## 📸 Screenshots
