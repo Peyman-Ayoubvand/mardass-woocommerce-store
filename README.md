@@ -157,6 +157,8 @@ These pages were structured to reflect real-world online store requirements and 
 - JavaScript (basic UI interactions)
 - Stripe & PayPal (payment integration)
 - Mailchimp (email marketing)
+- Mailchimp for WooCommerce (customer sync & campaigns)
+- WPCode (custom scripts & popup implementation)
 - Wordfence (security)
 
 ---
