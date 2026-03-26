@@ -35,6 +35,16 @@
 
 ---
 
+## 📱 Mobile View
+
+### 🏠 Homepage (Mobile)
+<img src="screenshots/mobile-home.png" width="300"/>
+
+### 📦 Product Page (Mobile)
+<img src="screenshots/mobile-product.png" width="300"/>
+
+👉 [View Shop Page (Mobile)](https://www.mardass.com/shop)
+
 ## Overview
 
 This project is a fully functional WooCommerce-based eCommerce store designed to simulate a real-world online fashion business.
