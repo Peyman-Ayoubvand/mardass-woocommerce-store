@@ -37,13 +37,11 @@
 
 ## 📱 Mobile View
 
-### 🏠 Homepage (Mobile)
-<img src="screenshots/mobile-homepage..png" width="300"/>
+👉 [Homepage (Mobile)](screenshots/mobile-homepaage.png)  
+👉 [Shop Page (Mobile)](screenshots/mobile-shop.png)  
+👉 [Product Page (Mobile)](screenshots/mobile-product.png)
 
-### 📦 Product Page (Mobile)
-<img src="screenshots/mobile-product.png" width="300"/>
-
-👉 [View Shop Page (Mobile)](https://www.mardass.com/shop)
+---
 
 ## Overview
 
