@@ -1,5 +1,7 @@
 # Mardass – WooCommerce Fashion Store
 
+## 👨‍💻 Project Summary
+
 🚀 Fully customized WooCommerce store with improved UI/UX, responsive design, and real-world eCommerce functionality.
 
 🔗 Live Demo: https://www.mardass.com/
