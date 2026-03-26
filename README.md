@@ -25,10 +25,8 @@
 - Mailchimp popup optimization
 - Reduced JavaScript impact
 
-### 📱 Mobile Performance
+###  Performances
 [Mobile Performance](./screenshots/Mobile-Performance.png)
-
-### 💻 Desktop Performance
 [Desktop Performance](./screenshots/Desktop-Performance.png)
 
 ---
