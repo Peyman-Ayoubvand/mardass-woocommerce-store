@@ -38,7 +38,7 @@
 ## 📱 Mobile View
 
 ### 🏠 Homepage (Mobile)
-<img src="screenshots/mobile-home.png" width="300"/>
+<img src="screenshots/mobile-homepage..png" width="300"/>
 
 ### 📦 Product Page (Mobile)
 <img src="screenshots/mobile-product.png" width="300"/>
