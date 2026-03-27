@@ -66,7 +66,7 @@ It focuses on UI/UX improvements, responsive design, and practical implementatio
 
 ## 🛍️ Product Page (Custom UI)
 
-- Redesigned WooCommerce product gallery layout using pure CSS (Flexbox)
+- Redesigned WooCommerce product gallery layout using pure [CSS](custom-code/css/main.css) (Flexbox)
 - Moved thumbnails to a vertical sidebar layout (desktop & tablet)
 - Improved visual hierarchy and image interaction (hover effects, scaling)
 - Implemented fully responsive behavior for mobile devices (horizontal thumbnails)
@@ -174,7 +174,7 @@ These pages were structured to reflect real-world online store requirements and 
 - WordPress (Astra Theme)
 - WooCommerce
 - Elementor (Page Builder)
-- CSS (Flexbox, responsive design, UI customization)
+- [CSS](custom-code/css/main.css) (Flexbox, responsive design, UI customization)
 - JavaScript (basic UI interactions)
 - Stripe & PayPal (payment integration)
 - Mailchimp (email marketing)
